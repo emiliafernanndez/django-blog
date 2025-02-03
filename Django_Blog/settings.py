@@ -1,3 +1,5 @@
+# Comentario que se debe sacar.
+
 """
 Django settings for Django_Blog project.
 
