@@ -1,3 +1,5 @@
+# Comentario que se debe sacar.
+
 """
 Django settings for django_project project.
 
